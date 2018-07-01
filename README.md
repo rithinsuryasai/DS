@@ -32,7 +32,7 @@ Instructions to compile and run the code
 
 •	The server is multithreaded and can be run on multiple clients by creating another instance of client.
 
-Test Data::
+Test Data
 ---
 Make- create, originate, invent, beget, form
 
@@ -49,11 +49,11 @@ Mark-label, tag, price, ticket
 Begin- start, open, launch
 
 
-Limitations:
+Limitations
 ---
 Maximum number of clients is 10.
 
-References:
+References
 ---
 * https://docs.oracle.com/javase/tutorial/uiswing/components/textfield.html
 * https://stackoverflow.com/questions/10462725/actionlistener-for-a-specific-text-inside-a-jtextarea 
