@@ -48,6 +48,14 @@ Mark-label, tag, price, ticket
 
 Begin- start, open, launch
 
+  
+Objectives
+---
+1. Exposure to distributed applications
+2. Understanding one communication protocol for distributed processing - Sockets
+3. Programming GUI processes
+4. Using an IDE
+
 
 Limitations
 ---
